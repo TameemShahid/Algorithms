@@ -2,7 +2,7 @@
 
 namespace Algorithms.Array_ContainsDuplicate
 {
-    class ContainsDuplicate_I
+    public class ContainsDuplicate_I
     {
         public static bool ContainsDuplicate(int[] nums)
         {
